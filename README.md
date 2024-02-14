@@ -15,6 +15,6 @@
 ### 🛠 &nbsp;Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,unity,unreal,vscode,ps,pr,discord&perline=14" (https://skillicons.dev) />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,unity,unreal,vscode,ps,pr,discord&perline=10" (https://skillicons.dev) />
   </a>
 </p>
