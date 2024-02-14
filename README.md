@@ -23,7 +23,8 @@
 <br/>
 
 ### 💻 &nbsp;Github Stats
-
+<p align="left">
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=BautistaFernandez&theme=highcontrast&border_radius=20&card_width=350" alt="GitHub Streak" /></a>
 
 
 ### 🤝🏻 &nbsp;Connect with Me
