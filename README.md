@@ -23,7 +23,7 @@
 <br/>
 
 ### 💻 &nbsp;Github Stats
-<p align="left"> <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=BautistaFernandez&theme=highcontrast&border_radius=20&card_width=400" alt="GitHub Streak" /></a> <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BautistaFernandez&show_icons=true&theme=dark&locale=en&layout=compact" alt="BautistaFernandez" /></p>
+<p align="left"> <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=BautistaFernandez&theme=highcontrast&border_radius=20&card_width=400" alt="GitHub Streak" /></a> <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=BautistaFernandez&show_icons=true&theme=dark&locale=en&layout=compact" alt="BautistaFernandez" /></p>
 
 
 ### 🤝🏻 &nbsp;Connect with Me
