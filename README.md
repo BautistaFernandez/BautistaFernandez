@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to program and learn how proramming deaply works in all.\
+💡 &nbsp;I like to program and learn how proramming deaply works at all.\
 🎓 &nbsp;I'm currently studying Computer Science and at Harvard's CS50.\
 🌱 &nbsp;I'm on track for learning more about Videogame programming, hacking/cibersecurity and AI/AR/VR.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
