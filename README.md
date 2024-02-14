@@ -1,6 +1,6 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there!</h2>
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;About Me: Videogame Developer
 
 💡 &nbsp;I like to program and learn how programming deaply works at all.\
 🎓 &nbsp;I'm currently studying Computer Science and at Harvard's CS50.\
