@@ -24,4 +24,4 @@
 
 
 ### 🤝🏻 &nbsp;Connect with Me
-[![@bautistafbuteler@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "bautistafbuteler@gmail.com")](bautistafbuteler@gmail.com) [![@bautista-fernandez-buteler](https://img.icons8.com/fluency/48/000000/linkedin.png "@bautista-fernandez-buteler")]([https://www.linkedin.com/in/bautista-fernandez-buteler/](https://www.linkedin.com/in/bautista-fernandez-buteler/)https://www.linkedin.com/in/bautista-fernandez-buteler/)
+"Soon"
