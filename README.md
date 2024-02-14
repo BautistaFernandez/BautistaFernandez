@@ -9,7 +9,7 @@
 ✉️ &nbsp;You can shoot me an email at bautistafbuteler@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my Resume for more details about me. I'm open to feedback and suggestions!
 <br/>
-<br/>
+
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -20,7 +20,6 @@
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,vscode,unreal,unity,ps,pr,discord&perline=5" (https://skillicons.dev) />
   </a>
 </p>
-<br/>
 <br/>
 
 
