@@ -7,7 +7,6 @@
 🌱 &nbsp;I'm on track for learning more about Videogame programming, hacking/cybersecurity and AI/AR/VR.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at bautistafbuteler@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my Resume for more details about me. I'm open to feedback and suggestions!
 <br/>
 
 
