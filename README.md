@@ -22,6 +22,18 @@
 <br/>
 
 ### 💻 &nbsp;Github Stats
-<p align="center"> <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=BautistaFernandez&theme=highcontrast&border_radius=20&card_width=400" alt="GitHub Streak" /></a> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BautistaFernandez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://git.io/streak-stats">
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=BautistaFernandez&theme=highcontrast&border_radius=20&card_width=400" alt="GitHub Streak" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BautistaFernandez&layout=compact" alt="Top Langs" />
+      </a>
+    </td>
+  </tr>
+</table>
 
