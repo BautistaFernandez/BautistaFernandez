@@ -22,6 +22,8 @@
 <br/>
 
 ### 💻 &nbsp;Github Stats
+<div align="center">
+
 <table>
   <tr>
     <td align="center">
@@ -36,4 +38,6 @@
     </td>
   </tr>
 </table>
+
+</div>
 
