@@ -2,11 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me: Software developer
 
-💡 &nbsp;I love games and learn how programming deaply works at all. My goal is to be able to resolve anything that needs programming.\
-🎓 &nbsp;I'm currently studying Videogame development at UTN Buenos Aires.\
-🌱 &nbsp;I'm on track for learning more about videogame development, 3D modeling and optimization.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at bautistafjob@gmail.com! I'll try to respond as soon as I can.\
+I help businesses bring outdated systems into the modern era. .NET migrations, API integrations, and process automation that actually works.
 <br/>
 
 
