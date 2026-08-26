@@ -29,7 +29,7 @@ I help businesses bring outdated systems into the modern era. .NET migrations, A
     </td>
     <td align="center">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BautistaFernandez&layout=compact" alt="Top Langs" />
+        <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=BautistaFernandez&layout=compact" alt="Top Langs" />
       </a>
     </td>
   </tr>
