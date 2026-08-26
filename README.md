@@ -12,7 +12,7 @@ I help businesses bring outdated systems into the modern era. .NET migrations, A
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,c,cs,cpp,py,unreal,unity,ps,pr,blender&perline=5" (https://skillicons.dev) />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,c,cpp,py,unreal,unity,ps,pr,blender&perline=5" (https://skillicons.dev) />
   </a>
 </p>
 <br/>
