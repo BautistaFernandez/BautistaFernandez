@@ -1,6 +1,6 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there!</h2>
 
-### 👨🏻‍💻 &nbsp;About Me: Software developer
+### 👨🏻‍💻 &nbsp;About Me: Legacy systems modernization specialist
 
 I help businesses bring outdated systems into the modern era. .NET migrations, API integrations, and process automation that actually works.
 <br/>
